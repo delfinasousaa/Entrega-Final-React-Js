@@ -1,0 +1,17 @@
+.carrito {
+    width: 90px !important;
+}
+
+.cart-container {
+    position: relative; 
+    display: inline-block;
+}
+
+.strong-number {
+    position: absolute;
+    right: 5px; 
+    bottom: 0px; 
+    color: rgb(255, 255, 255);
+    font-size: 16px; 
+    font-weight: bold;
+}
